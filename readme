@@ -1,0 +1,25 @@
+# ARIA AI Assistant
+
+A web-based AI assistant built using Flask and Hugging Face API integration.
+
+## Features
+- AI-powered chat responses
+- Real-time streaming responses
+- Rate limiting for security
+- Fallback response system
+- Clean web interface
+
+## Tech Stack
+- Python
+- Flask
+- Hugging Face API
+- HTML/CSS
+- JavaScript
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone <your-repository-link>
+cd aria-assistant
